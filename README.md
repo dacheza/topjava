@@ -22,6 +22,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDdaaU5fZEo4X3c">Работа с проектом (выполнять инструкции)</a>
 - **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWEpvcjUwWGhsTnM">Prepare_ to_ HW0.patch (скачать и положить в каталог вашего проекта)</a>**
+-  <a href="http://www.youtube.com/watch?v=_PDIVhEs6TM">Доступно о Java 8 Lambda</a>
 
 ##  Инструкция по шагам (из видео):</h3>
 -  <a href="http://javawebinar.ru/#/soft">Установить ПО (git, JDK8, IntelliJ IDEA, Maven)</a>
@@ -40,7 +41,6 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
             
 ### Вы готовы к участию в проекте!
 -  Ресурсы
-    -  <a href="http://www.youtube.com/watch?v=_PDIVhEs6TM">Доступно о Java 8 Lambda</a>
     -  <a href="http://devcolibri.com/4137#t2">Java 8: Lambda выражения</a>
     -  <a href="http://www.mscharhag.com/2014/02/java-8-datetime-api.html">Java 8 Date and Time API</a>
     -  <a href="http://devcolibri.com/4274#t7">Java 8: Потоки</a>
