@@ -3,6 +3,8 @@ Java Online Enterprise Project
 Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise:
 Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.
 
+Старт проекта 10.09.2015
+
 Вводное занятие
 ===============
 
@@ -49,3 +51,5 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
     -  <a href="http://devcolibri.com/4274#t7">Java 8: Потоки</a>
     -  <a href="http://prologistic.com.ua/polnoe-rukovodstvo-po-java-8-stream.html">Pуководство по Java 8 Stream</a>
     -  <a href="http://habrahabr.ru/post/224593/">Лямбда-выражения в Java 8</a>
+
+skype: grigory.kislin
