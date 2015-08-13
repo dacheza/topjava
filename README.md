@@ -45,7 +45,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 -  Оплатить участие и прислать мне (если еще не присылали) ваш gmail и присоединиться в skype: grigory.kislin.
             
 ### Вы готовы к участию в проекте!
-Добавлтесь в skype: grigory.kislin для внесения в группу проекта.
+Добавтесь в skype: grigory.kislin, я внесу Вас в группу проекта.
 
 -  Ресурсы
     -  <a href="http://devcolibri.com/4137#t2">Java 8: Lambda выражения</a>
