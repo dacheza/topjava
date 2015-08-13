@@ -45,6 +45,8 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 -  Оплатить участие и прислать мне (если еще не присылали) ваш gmail и присоединиться в skype: grigory.kislin.
             
 ### Вы готовы к участию в проекте!
+Добавлтесь в skype: grigory.kislin для внесения в группу проекта.
+
 -  Ресурсы
     -  <a href="http://devcolibri.com/4137#t2">Java 8: Lambda выражения</a>
     -  <a href="http://www.mscharhag.com/2014/02/java-8-datetime-api.html">Java 8 Date and Time API</a>
